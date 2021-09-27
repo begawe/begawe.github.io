@@ -34531,12 +34531,12 @@ P.a_d.prototype={}
 U.IW.prototype={
 b5(){return new U.a_5(C.J)}}
 U.a_5.prototype={
-a0(a,b){var s,r=null,q="Poppins",p=4281348144,o=t.fQ,n=T.j2(H.c([new T.cj(new V.bV(0,50,0,0),L.nA("begawe",Y.nI(B.kb(q,new P.L(p),14,r,C.c),C.h3,"Croissant One",40,r),r,r),r)],o),C.ve,C.ar),m=M.ee(r,r,C.H,r,new S.cK(r,r,r,r,r,r,C.a_),60,r,r,1/0),l=t.l,k=b.ai(l).f
-k=M.ee(r,new T.cj(new V.bV(50,0,0,0),T.j2(H.c([L.H1(C.Fc,C.y,24),new T.cj(new V.bV(20,0,0,0),L.nA("Dashboard",Y.nI(B.kb(q,new P.L(p),14,r,C.c),C.y,q,18,r),r,r),r)],o),C.bh,C.ar),r),C.H,r,new S.cK(C.h3,r,r,new K.c6(new P.aV(0,0),new P.aV(15,15),new P.aV(0,0),new P.aV(15,15)),r,r,C.a_),60,r,r,k.a.a*0.8)
+a0(a,b){var s,r=null,q="Poppins",p=4281348144,o=t.fQ,n=T.j2(H.c([new T.cj(new V.bV(0,35,0,0),L.nA("begawe",Y.nI(B.kb(q,new P.L(p),14,r,C.c),C.h3,"Croissant One",35,r),r,r),r)],o),C.ve,C.ar),m=M.ee(r,r,C.H,r,new S.cK(r,r,r,r,r,r,C.a_),35,r,r,1/0),l=t.l,k=b.ai(l).f
+k=M.ee(r,new T.cj(new V.bV(50,0,0,0),T.j2(H.c([L.H1(C.Fc,C.y,24),new T.cj(new V.bV(20,0,0,0),L.nA("Dashboard",Y.nI(B.kb(q,new P.L(p),14,r,C.c),C.y,q,14,r),r,r),r)],o),C.bh,C.ar),r),C.H,r,new S.cK(C.h3,r,r,new K.c6(new P.aV(0,0),new P.aV(15,15),new P.aV(0,0),new P.aV(15,15)),r,r,C.a_),45,r,r,k.a.a*0.8)
 s=b.ai(l).f
-s=M.ee(r,new T.cj(new V.bV(50,0,0,0),T.j2(H.c([L.H1(C.Fd,C.aT,24),new T.cj(new V.bV(20,0,0,0),L.nA("Event",Y.nI(B.kb(q,new P.L(p),14,r,C.c),C.aT,q,18,r),r,r),r)],o),C.bh,C.ar),r),C.H,r,new S.cK(r,r,r,new K.c6(new P.aV(0,0),new P.aV(15,15),new P.aV(0,0),new P.aV(15,15)),r,r,C.a_),60,r,r,s.a.a*0.8)
+s=M.ee(r,new T.cj(new V.bV(50,0,0,0),T.j2(H.c([L.H1(C.Fd,C.aT,24),new T.cj(new V.bV(20,0,0,0),L.nA("Event",Y.nI(B.kb(q,new P.L(p),14,r,C.c),C.aT,q,14,r),r,r),r)],o),C.bh,C.ar),r),C.H,r,new S.cK(r,r,r,new K.c6(new P.aV(0,0),new P.aV(15,15),new P.aV(0,0),new P.aV(15,15)),r,r,C.a_),45,r,r,s.a.a*0.8)
 l=b.ai(l).f
-return M.ee(r,T.a2S(H.c([n,m,k,new T.cj(new V.bV(0,10,0,0),s,r),new T.cj(new V.bV(0,10,0,0),M.ee(r,new T.cj(new V.bV(50,0,0,0),T.j2(H.c([L.H1(C.Fh,C.aT,24),new T.cj(new V.bV(20,0,0,0),L.nA("Template",Y.nI(B.kb(q,new P.L(p),14,r,C.c),C.aT,q,18,r),r,r),r)],o),C.bh,C.ar),r),C.H,r,new S.cK(r,r,r,new K.c6(new P.aV(0,0),new P.aV(15,15),new P.aV(0,0),new P.aV(15,15)),r,r,C.a_),60,r,r,l.a.a*0.8),r)],o),C.cZ,C.ar),C.H,r,new S.cK(r,r,r,r,r,r,C.a_),1/0,r,r,250)}}
+return M.ee(r,T.a2S(H.c([n,m,k,new T.cj(new V.bV(0,10,0,0),s,r),new T.cj(new V.bV(0,10,0,0),M.ee(r,new T.cj(new V.bV(50,0,0,0),T.j2(H.c([L.H1(C.Fh,C.aT,24),new T.cj(new V.bV(20,0,0,0),L.nA("Template",Y.nI(B.kb(q,new P.L(p),14,r,C.c),C.aT,q,14,r),r,r),r)],o),C.bh,C.ar),r),C.H,r,new S.cK(r,r,r,new K.c6(new P.aV(0,0),new P.aV(15,15),new P.aV(0,0),new P.aV(15,15)),r,r,C.a_),45,r,r,l.a.a*0.8),r)],o),C.cZ,C.ar),C.H,r,new S.cK(r,r,r,r,r,r,C.a_),1/0,r,r,250)}}
 F.GX.prototype={
 b5(){return new F.XM(new N.ch(null,t.jS),C.J)}}
 F.XM.prototype={
@@ -34544,7 +34544,7 @@ a0(a,b){var s,r,q,p,o,n=null,m="Poppins",l=4281348144,k=t.l,j=M.ee(n,new U.IW(n)
 k=b.ai(k).f
 s=K.oZ(15)
 r=t.fQ
-q=T.j2(H.c([T.a2S(H.c([L.nA("Dashboard Overview",Y.nI(B.kb(m,new P.L(l),14,n,C.c),C.aT,m,18,C.k),n,n),L.nA("Begawe Online",Y.nI(B.kb(m,new P.L(l),14,n,C.c),C.aT,m,14,C.c),n,n)],r),C.cZ,C.ar),T.j2(H.c([B.akY(L.H1(C.Fi,C.aT,30),30,new F.aft()),B.akY(L.H1(C.Fe,C.aT,30),30,new F.afu()),B.akY(L.H1(C.Fg,C.aT,30),30,new F.afv()),new T.cj(new V.bV(20,0,20,0),M.ee(n,n,C.H,n,new S.cK(new P.L(4293848814),n,n,n,n,n,C.a_),50,n,n,1),n),M.ee(n,new U.H2(M.aAE(n,n,new D.mE("https://picsum.photos/seed/796/600",1)),n),C.dK,n,new S.cK(n,n,n,n,n,n,C.b3),50,n,n,50),new T.cj(new V.bV(20,0,0,0),L.nA("Admin Gagah",Y.nI(B.kb(m,new P.L(l),14,n,C.c),C.aT,m,n,C.k),n,n),n)],r),C.bh,C.ar)],r),C.vf,C.ar)
+q=T.j2(H.c([T.a2S(H.c([L.nA("Dashboard Overview",Y.nI(B.kb(m,new P.L(l),14,n,C.c),C.aT,m,18,C.k),n,n),L.nA("Begawe Online",Y.nI(B.kb(m,new P.L(l),14,n,C.c),C.aT,m,14,C.c),n,n)],r),C.cZ,C.ar),T.j2(H.c([B.akY(L.H1(C.Fi,C.aT,24),24,new F.aft()),B.akY(L.H1(C.Fe,C.aT,24),24,new F.afu()),B.akY(L.H1(C.Fg,C.aT,24),24,new F.afv()),new T.cj(new V.bV(20,0,20,0),M.ee(n,n,C.H,n,new S.cK(new P.L(4293848814),n,n,n,n,n,C.a_),35,n,n,1),n),M.ee(n,new U.H2(M.aAE(n,n,new D.mE("https://picsum.photos/seed/796/600",1)),n),C.dK,n,new S.cK(n,n,n,n,n,n,C.b3),35,n,n,35),new T.cj(new V.bV(20,0,0,0),L.nA("Admin Gagah",Y.nI(B.kb(m,new P.L(l),14,n,C.c),C.aT,m,n,C.k),n,n),n)],r),C.bh,C.ar)],r),C.vf,C.ar)
 p=K.oZ(15)
 o=new Y.ds(new P.L(3201092812),1,C.a5)
 return new M.II(Q.aAK(T.j2(H.c([j,new T.cj(new V.bV(30,30,0,30),M.ale(C.bo,M.ee(n,new T.cj(new V.bV(20,20,20,20),T.a2S(H.c([q,new T.cj(new V.bV(0,20,0,0),T.j2(H.c([M.ee(n,T.a2S(H.c([M.ee(n,n,C.H,n,new S.cK(C.h3,n,n,new K.c6(new P.aV(15,15),new P.aV(15,15),new P.aV(0,0),new P.aV(0,0)),n,n,C.a_),50,n,n,1/0)],r),C.dN,C.ar),C.H,n,new S.cK(C.y,n,new F.cJ(o,o,o,o),p,n,n,C.a_),200,n,n,300)],r),C.bh,C.ar),n)],r),C.dN,C.ar),n),C.H,n,new S.cK(C.y,n,n,s,n,n,C.a_),1/0,n,n,k.a.a*0.78),C.H,C.h1,2,n,new X.da(i,C.K),n,C.cw),n)],r),C.bh,C.ar),!0),this.d)}}

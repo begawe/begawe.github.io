@@ -1,6 +1,6 @@
 {
-    "name": "begawe_w_e_b",
-    "short_name": "begawe_w_e_b",
+    "name": "begawe_web",
+    "short_name": "begawe_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
